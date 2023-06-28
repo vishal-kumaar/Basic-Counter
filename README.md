@@ -1,5 +1,5 @@
 # ⭐ Project - Basic Counter ⭐
-🔗 [Project Link](https://increase-decrease-counter.netlify.app/ "Click me") <br>
+🔗 [Project Link](https://vishal-kumaar.github.io/Basic-Counter/ "Click me") <br>
 
 This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
 
